@@ -19,5 +19,6 @@
       ~ Delete, Reset or Add current Votes to File.
       ~ Reset Password
       ~ And even to close the Application.
+      
 
-## Note if you want the default password...  you will get it in the "Pass.txt" file.
+~ ~ ~ Note if you want the default password...  you will get it in the "Pass.txt" file. (ofcourse you can change it later)
